@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@afkae-brothers/as-seen-offline-db": {
+      "signature": "c135cc1420a2ab71b603d2a8cc3f27f8",
+      "file": true
+    }
+  }
+}

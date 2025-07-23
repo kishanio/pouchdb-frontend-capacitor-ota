@@ -1,0 +1,7 @@
+{
+  "name": "@afkae-brothers/as-seen-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

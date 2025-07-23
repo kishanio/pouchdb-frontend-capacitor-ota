@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">As Seen</string>
+    <string name="title_activity_main">As Seen</string>
+    <string name="package_name">com.afkae.asseen</string>
+    <string name="custom_url_scheme">com.afkae.asseen</string>
+</resources>
